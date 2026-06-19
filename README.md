@@ -1,7 +1,17 @@
-# Awesome-BPE
-## Byte-Pair Encoding (BPE): Variants, Types, & Applications
+# Awesome-BPE 🚀
 
-Byte-Pair Encoding (BPE) is a data compression algorithm that has become the foundational tokenization standard for modern Large Language Models (LLMs). By iteratively replacing the most frequent pairs of bytes or characters with a new, unused byte, it maps raw text into a compressed vocabulary of subword units.
+![Awesome BPE Banner](assets/banner.svg)
+
+<p align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-BPE/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-BPE?style=flat-square&logo=github" alt="Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-BPE/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-BPE?style=flat-square" alt="Forks"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 📖 Byte-Pair Encoding (BPE): Variants, Types, & Applications
+
+Byte-Pair Encoding (BPE) is a data compression algorithm that has become the foundational tokenization standard for modern Large Language Models (LLMs). By iteratively replacing the most frequent pairs of bytes or characters with a new, unused byte, it maps raw text into a compressed vocabulary of subword units. This curated list gathers BPE variants, implementations, and cross-domain applications to help researchers and developers optimize subword tokenization models.
 
 ---
 
