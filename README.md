@@ -60,3 +60,18 @@ Because BPE is fundamentally an optimal sequence compressor, its logic has been 
 | **[Source Code Tokenization](docs/source_code_tokenization.md)** | **Application:** Tailored variants (like codegen tokenizers) prevent BPE from combining functional keywords (like `if`, `while`, `return`) with user-defined variable names, keeping code trees structurally valid. | 2019 | [Language Models are Unsupervised Multitask Learners](https://d4mucfpruyw0t.cloudfront.net/better-language-models/language-models.pdf) |
 | **[Bioinformatics (Protein & DNA Analysis)](docs/bioinformatics.md)** | **Application:** Used to compress raw strings of amino acids (A, C, G, T) or complex peptide chains into higher-order structural motifs, identifying frequent biological mutations. | 2020 | [Seq2seq Fingerprint with Byte-Pair Encoding for Predicting Changes in Protein Stability upon Single Point Mutation](https://ieeexplore.ieee.org/document/9079718) |
 | **[Time-Series Tokenization](docs/time_series_tokenization.md)** | **Application:** Discretizes continuous mathematical sensor waves into discrete, frequent sequence blocks. This lets developers treat raw signal charts exactly like natural text tokens inside transformer models. | 2025 | [Byte Pair Encoding for Efficient Time Series Forecasting](https://arxiv.org/abs/2505.10972) |
+
+---
+
+##  Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-BPE&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BPE&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BPE&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BPE&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
